@@ -24,14 +24,10 @@ cd IMEI_Recon
 
 Install dependencies:
 
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 
 ```bash
-python imei.py.py
+python3  imei.py
 ```
 
 Enter an IMEI number when prompted.
@@ -41,8 +37,8 @@ Example:
 ```text
 Enter IMEI: 356789123456789
 
-Brand: Example Brand
-Model: Example Model
+Brand: Example Galaxy
+Model: Example SamsungA20
 ```
 
 ## Project Structure
